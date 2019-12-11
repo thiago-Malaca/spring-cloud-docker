@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: hystrix-dash
+server:
+  port: 9999
